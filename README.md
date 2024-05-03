@@ -4,13 +4,8 @@
 
 ### This  web project done in html,css ,js
 
-#### Web link 
-
- https://sachinprajapati8604.github.io/Weather_webApp/
- 
  #### netlify link
- 
- https://spweather.netlify.app/
+ https://weather-app-madhu0-2.netlify.app/
  
 ### Features of the project.
 
